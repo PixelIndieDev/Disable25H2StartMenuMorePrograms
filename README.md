@@ -1,4 +1,6 @@
 # Disable 25H2 Start Menu "MorePrograms" Section
+![Registry](https://img.shields.io/badge/File-.reg-orange)
+
 A Windows Registry to remove the "More Programs" section from the Windows Start Menu introduced in 25H2.
 
 This repository provides a .reg file that modifies the Windows Registry to hide this section, forcing the Start Menu to only show pinned tiles.
